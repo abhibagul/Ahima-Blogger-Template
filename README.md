@@ -2,6 +2,9 @@
 Ahima Blogger Template
 Ahima is simple and more powerful theme. It has 7 post layouts, 2 slider layouts and both infinite and numbered pagination. Say bye to the limits, you decide your posts look.
 
+
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
