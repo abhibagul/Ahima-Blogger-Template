@@ -3,7 +3,7 @@ Ahima Blogger Template
 Ahima is simple and more powerful theme. It has 7 post layouts, 2 slider layouts and both infinite and numbered pagination. Say bye to the limits, you decide your posts look.
 
 
-<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+  <span class='fltdon' style='float:left'>	Get us going by :</span> 	<a href="https://www.paypal.com/paypalme/blossomtheme" target="_blank"><img alt='Donate with PayPal button' border='0' name='submit' src='https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif' title='PayPal - The safer, easier way to pay online!'/></a>
 
 <h2>Documentation</h2>
 <div class="entry-content">
